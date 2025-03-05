@@ -1,3 +1,4 @@
+//canace
 let balls = [];  // array to store the ball objects
 var palette = ["#fab515", "#d7312e", "#2a71af", "#ad7347", "#ad7347", "#1d1d1b"];
 let envelope, oscillator;
